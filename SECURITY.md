@@ -10,7 +10,7 @@
 ## Reporting a vulnerability
 
 Please **do not open a public issue** for security problems. Instead, use
-GitHub's [private vulnerability reporting](https://github.com/namangoyal-work/UserRating/security/advisories/new)
+GitHub's [private vulnerability reporting](https://github.com/que-ravon/UserRating/security/advisories/new)
 for this repository. You can expect an acknowledgment within a week. If the
 report is valid, a fix ships before the details are published, and you get
 credit in the advisory unless you'd rather not.

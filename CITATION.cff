@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Goyal
     given-names: Naman
-repository-code: "https://github.com/namangoyal-work/UserRating"
+repository-code: "https://github.com/que-ravon/UserRating"
 license: MIT
 version: 1.0.0
 date-released: 2026-07-04

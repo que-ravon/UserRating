@@ -1,6 +1,6 @@
 # UserRating
 
-[![CI](https://github.com/namangoyal-work/UserRating/actions/workflows/ci.yml/badge.svg)](https://github.com/namangoyal-work/UserRating/actions/workflows/ci.yml)
+[![CI](https://github.com/que-ravon/UserRating/actions/workflows/ci.yml/badge.svg)](https://github.com/que-ravon/UserRating/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](pyproject.toml)
 
@@ -30,7 +30,7 @@ high-signal words** instead of exploding the feature space with every bigram.
 ## Quickstart
 
 ```bash
-git clone https://github.com/namangoyal-work/UserRating.git
+git clone https://github.com/que-ravon/UserRating.git
 cd UserRating
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e .
