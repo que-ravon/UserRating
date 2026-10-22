@@ -22,7 +22,7 @@ process instead of your idea, which wastes everyone's time.
 ## Development setup
 
 ```bash
-git clone https://github.com/namangoyal-work/UserRating.git
+git clone https://github.com/que-ravon/UserRating.git
 cd UserRating
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"

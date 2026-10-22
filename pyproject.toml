@@ -38,8 +38,8 @@ dev = [
 userating = "userating.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/namangoyal-work/UserRating"
-Issues = "https://github.com/namangoyal-work/UserRating/issues"
+Homepage = "https://github.com/que-ravon/UserRating"
+Issues = "https://github.com/que-ravon/UserRating/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

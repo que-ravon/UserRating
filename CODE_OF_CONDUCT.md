@@ -51,7 +51,7 @@ project in public spaces.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the maintainer via the contact listed on the GitHub profile
-[@namangoyal-work](https://github.com/namangoyal-work). All complaints will be
+[@que-ravon](https://github.com/que-ravon). All complaints will be
 reviewed and investigated promptly and fairly. The maintainer is obligated to
 respect the privacy and security of the reporter of any incident.
 
